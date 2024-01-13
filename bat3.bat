@@ -1,0 +1,2 @@
+python autoresponses.py
+pause
